@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Leonid Nozdrevatykh](https://up.htmlacademy.ru/ecmascript/23/user/1398695).
-* Наставник: `Неизвестно`.
+* Наставник: `Arthur Litovko`.
 
 ---
 
